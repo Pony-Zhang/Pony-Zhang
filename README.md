@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sherlyzz
 - 👀 I’m interested in web
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on SIT-YIBAN
 
 <!---
 sherlyzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

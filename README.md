@@ -1,4 +1,4 @@
-### Hey, it\`s [深林z](https://juejin.cn/user/2340212367169069) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![Visitors](https://komarev.com/ghpvc/?username=sherlinz0)
+### Hey, it\`s [深林z](https://juejin.cn/user/2340212367169069) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![visitor](https://visitor-badge.glitch.me/badge?page_id=sherlinz0/sherlinz0)
 
 - I\`m a sophomore of @[SIT](https://www.sit.edu.cn/).Major in Software Engineering.
 - I’m currently studying Front End.

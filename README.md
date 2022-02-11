@@ -7,7 +7,7 @@
 
   - Wechat: [ sherlin0z ]
   
-    ![QRCODE](https://gitee.com/sherlinz0/img-storage/raw/master/WeChat.jpg)
+    <image width = '50%' height ='50%' src ="https://gitee.com/sherlinz0/img-storage/raw/master/WeChat.jpg"></image>
 
   - [CSDN](https://blog.csdn.net/weixin_49640747?type=blog) | [JueJin](https://juejin.cn/user/2340212367169069) | [LeetCode](https://leetcode-cn.com/u/sherlinz0/)
   - 微信公众号: [ 前端的碎碎念 ]

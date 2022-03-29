@@ -17,3 +17,7 @@
 **Collaborative Project:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherlinz0&repo=kite-microapp)](https://github.com/SIT-kite/kite-microapp)
+
+**Independent Project:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sherlinz0&repo=web-music)](https://github.com/sherlinz0/web-music)

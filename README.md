@@ -7,7 +7,7 @@
 
   - Wechat: [ sherlin0z ]
   
-    <image width = '25%' height ='25%' src ="https://gitee.com/sherlinz0/img-storage/raw/master/WeChat.jpg"></image>
+    <image width = '25%' height ='25%' src ="https://img-1305590520.cos.ap-shanghai.myqcloud.com/WeChatPub.jpg"></image>
 
   - [CSDN](https://blog.csdn.net/weixin_49640747?type=blog) | [JueJin](https://juejin.cn/user/2340212367169069) | [LeetCode](https://leetcode-cn.com/u/sherlinz0/) | [SegmentFault](https://segmentfault.com/u/sherlinz0)
   - 微信公众号: [ 前端的碎碎念 ]

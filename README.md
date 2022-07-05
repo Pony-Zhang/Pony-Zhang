@@ -1,5 +1,5 @@
 ### Hey, it\`s [深林z](https://juejin.cn/user/2340212367169069)
-- I\`m a sophomore of @[SIT](https://www.sit.edu.cn/).Major in Software Engineering.
+- I\`m a junior of [SIT](https://www.sit.edu.cn/).Major in Software Engineering.
 - I’m currently studying Front End.
 - Working hard to be an excellent Frontend Developer~
 - How to reach me?

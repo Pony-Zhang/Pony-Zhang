@@ -4,8 +4,8 @@
 - How to reach me?
 
   - Wechat: [ sherlin0z ]
-  - [CSDN](https://blog.csdn.net/weixin_49640747?type=blog) | [JueJin](https://juejin.cn/user/2340212367169069) | [LeetCode](https://leetcode-cn.com/u/sherlinz0/) | [SegmentFault](https://segmentfault.com/u/sherlinz0)
-  - 微信公众号: [ 深林z的技术琐碎 ]
+  - [CSDN](https://blog.csdn.net/weixin_49640747?type=blog) | [JueJin](https://juejin.cn/user/2340212367169069)
+  - [Bilibili](https://space.bilibili.com/621926809?spm_id_from=333.1007.0.0)
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=sherlinz0&show_icons=true&theme=radical)
 
